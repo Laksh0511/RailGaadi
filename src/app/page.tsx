@@ -159,10 +159,10 @@ export default function LandingPage() {
 
             {/* Hero Visual */}
             <div className="w-full lg:w-1/2 relative mt-4 lg:mt-0">
-              <div className="relative w-full aspect-square max-w-[540px] mx-auto rounded-3xl overflow-hidden shadow-2xl border border-outline-variant/30">
+              <div className="relative w-full aspect-[16/9] max-w-[600px] mx-auto rounded-3xl overflow-hidden shadow-2xl border border-outline-variant/20">
                 <img
-                  src="https://images.unsplash.com/photo-1541604084795-098553257bc5?q=80&w=1400&auto=format&fit=crop"
-                  alt="Indian Train"
+                  src="https://lh3.googleusercontent.com/aida/AEtjO1XvaqFhRsNsD7ehPgnKS3otZXWhXfQdZn5W4cuuOhi0nUmg405EfBMZpXBgM5XVAtlwFb_g1x-e4o34GnL1FEQHsjpUEysyGY9L56LW179LoNLcqWi513YsKoYb4j4E3TF1XDeQZ2s9NDh9Iq_wpDA6II8KCce0X38bwXl5iXPGTVQcBtzTinz8vUGBnZHCyBMmcnm2cj48VPaMazgiq5BMZX7ElbJKfenBayZvNUQJzY7NaJaovZXhAA"
+                  alt="Modern high-speed Indian train travelling through a scenic landscape"
                   className="w-full h-full object-cover"
                 />
               </div>
